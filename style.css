@@ -1,0 +1,28 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+div.list {
+    text-align: center;
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: mediumvioletred;
+}
